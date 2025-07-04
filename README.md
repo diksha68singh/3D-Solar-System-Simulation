@@ -219,8 +219,4 @@ For technical questions or issues:
 
 ---
 
-**Author**: [Your Name]  
-**Date**: [Current Date]  
-**Version**: 1.0.0  
 
-*Built with passion for astronomy and 3D graphics! 🌟*
